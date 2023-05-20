@@ -47,7 +47,7 @@ Once Python is installed, follow these steps:
 3. Open a command prompt or terminal in that directory.
 4. Run the program by executing the following command:
 
-            python discount_calculator.py
+       python discount_calculator.py
 
 
 
