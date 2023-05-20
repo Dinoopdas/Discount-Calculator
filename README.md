@@ -44,10 +44,9 @@ Once Python is installed, follow these steps:
        git clone https://github.com/Dinoopdas/Discount-Calculator.git
        
 2. Navigate to the cloned repository's directory.
-3. Open a command prompt or terminal in that directory.
-4. Run the program by executing the following command:
+3. Run the below named program by using any IDE:
 
-       python Discount_Calculator.py
+       Discount_Calculator.py
 
 
 
